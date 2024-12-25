@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yihan Fu is a second-year Ph.D. student in the Institute for Artificial Intelligence, Peking University, under the supervision of [Prof. Bonan Yan](https://bonany.cc). He received B.S.E in Microelectronics from the School of Electronics Engineering and Computer Science, Peking University, in 2023.
+# Welcome!
 
-His research interests lie in computer architecture, including probabilistic machine learning (ProbabilisticML) acceleration, AI-Generated Content (AIGC) acceleration, in-memory computing circuits and architectures, and emerging material- or structure-based memory and associated architectures.
+I am a second-year Ph.D. student in the Institute for Artificial Intelligence, Peking University, under the supervision of [Prof. Bonan Yan](https://bonany.cc). He received B.S.E in Microelectronics from the School of Electronics Engineering and Computer Science, Peking University, in 2023.
+
+My research interests lie in computer architecture, including probabilistic machine learning (ProbabilisticML) acceleration, AI-Generated Content (AIGC) acceleration, in-memory computing circuits and architectures, and emerging material- or structure-based memory and associated architectures.
 
 
 # 🔥 News
