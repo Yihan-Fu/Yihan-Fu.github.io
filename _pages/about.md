@@ -30,9 +30,7 @@ His research interests lie in computer architecture, including probabilistic mac
 
 # First-author papers
   
-- **[HPCA/25]** PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference
-
-**Yihan Fu**, Anjunyi Fan, Wenshuo Yue, Hongxiao Zhao, Daijing Shi, Qiuping Wu, Jiayi Li, Xiangyu Zhang, Yaoyu Tao, Yuchao Yang, Bonan Yan
+- **[HPCA'25]** **Yihan Fu**, Anjunyi Fan, Wenshuo Yue, Hongxiao Zhao, Daijing Shi, Qiuping Wu, Jiayi Li, Xiangyu Zhang, Yaoyu Tao, Yuchao Yang, Bonan Yan. "PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference". 2025 IEEE International Symposium on High-Performance Computer Architecture (HPCA).
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
