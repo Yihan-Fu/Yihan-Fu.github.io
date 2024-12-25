@@ -61,5 +61,5 @@ My research interests lie in computer architecture, including probabilistic mach
 - *2022.08 - 2022.11*, [Visionox](https://www.visionox.com/), China.
 
 # 👨🏻‍🎓 Services
-- Official Reviewer of [AICAS2025](https://ieee-cas.org/event/conference/2025-ieee-7th-international-conference-artificial-intelligence-circuits-and).
+- Official Reviewer of [AICAS'2025](https://ieee-cas.org/event/conference/2025-ieee-7th-international-conference-artificial-intelligence-circuits-and).
 - Official Reviewer of [Integrated Circuits and Embedded Systems](https://jices.buaa.edu.cn/index.jsp).
