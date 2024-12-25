@@ -57,3 +57,7 @@ His research interests lie in computer architecture, including probabilistic mac
 
 # 💻 Internships
 - *2022.08 - 2022.11*, [Visionox](https://www.visionox.com/), China.
+
+#👨🏻‍🎓 Service
+- Official Reviewer of [AICAS2025](https://ieee-cas.org/event/conference/2025-ieee-7th-international-conference-artificial-intelligence-circuits-and).
+- Official Reviewer of [Integrated Circuits and Embedded Systems](https://jices.buaa.edu.cn/index.jsp).
