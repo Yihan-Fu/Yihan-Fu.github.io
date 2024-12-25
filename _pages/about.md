@@ -55,9 +55,5 @@ His research interests lie in computer architecture, including probabilistic mac
 - *2019.06 - 2023.06*, B.S.E in microelectronics, School of Electronics Engineering and Computer Science, Peking University
 - *2015.09 - 2019.06*, Danyang High school of Jiangsu Province
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.08 - 2022.11*, [Visionox](https://www.visionox.com/), China.
