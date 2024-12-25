@@ -46,12 +46,14 @@ His research interests lie in computer architecture, including probabilistic mac
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* Peking University Institute for Artificial Intelligence 2024 Ph.D. Scholarship - Excellence Award
+- *2024.10* Industrial Bank Graduate Scholarship
+- *2024.09* Merit Student of Peking University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, Ph.D. in integrated circuits science and engineering, Institute for Artificial Intelligence, Peking University
+- *2019.06 - 2023.06*, B.S.E in microelectronics, School of Electronics Engineering and Computer Science, Peking University
+- *2015.09 - 2019.06*, Danyang High school of Jiangsu Province
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
