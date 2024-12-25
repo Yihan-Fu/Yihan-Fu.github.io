@@ -30,9 +30,9 @@ His research interests lie in computer architecture, including probabilistic mac
 
 # First-author papers
   
-- **[HPCA'25]** **Yihan Fu**, Anjunyi Fan, Wenshuo Yue, Hongxiao Zhao, Daijing Shi, Qiuping Wu, Jiayi Li, Xiangyu Zhang, Yaoyu Tao, Yuchao Yang, Bonan Yan. "PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference". 2025 IEEE International Symposium on High-Performance Computer Architecture (HPCA).
+- **[HPCA'25]** **Yihan Fu**, Anjunyi Fan, Wenshuo Yue, Hongxiao Zhao, Daijing Shi, Qiuping Wu, Jiayi Li, Xiangyu Zhang, Yaoyu Tao, Yuchao Yang, Bonan Yan. "PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference." 2025 IEEE International Symposium on High-Performance Computer Architecture.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **[TCAS-I]** **Yihan Fu**, Daijing Shi, Anjunyi Fan, Wenshuo Yue, Yuchao Yang, Ru Huang, Bonan Yan. [“Probabilistic Compute-in-Memory Design for Efficient Markov Chain Monte Carlo Sampling.”](https://ieeexplore.ieee.org/abstract/document/10347275) IEEE Transactions on Circuits and Systems I: Regular Papers, 2024.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
