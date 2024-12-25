@@ -25,7 +25,7 @@ My research interests lie in computer architecture, including probabilistic mach
 
 
 # 🔥 News
-- *2024.11*: One paper is accepted by HPCA2025.
+- *2024.11*: One paper is accepted by HPCA'2025.
 - *2023.12*: One paper is accepted by TCAS-I.
 
 # 📝 Publications 
