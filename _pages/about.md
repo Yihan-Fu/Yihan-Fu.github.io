@@ -28,7 +28,7 @@ His research interests lie in computer architecture, including probabilistic mac
 
 # 📝 Publications 
 
-#First-author papers
+# First-author papers
   
 - **[HPCA/25]** PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference
 
