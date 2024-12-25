@@ -28,7 +28,6 @@ His research interests lie in computer architecture, including probabilistic mac
 
 # 📝 Publications 
 
-
 PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference
 
 **Yihan Fu**, Anjunyi Fan, Wenshuo Yue, Hongxiao Zhao, Daijing Shi, Qiuping Wu, Jiayi Li, Xiangyu Zhang, Yaoyu Tao, Yuchao Yang, Bonan Yan
