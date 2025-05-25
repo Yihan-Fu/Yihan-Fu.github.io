@@ -48,6 +48,7 @@ My research interests lie in computer architecture, including probabilistic mach
 
 
 # 🎖 Honors and Awards
+- *2015.05* 1st International Conference on General Artificial Intelligence - First Prize in the Best Poster Award
 - *2024.12* Peking University Institute for Artificial Intelligence 2024 Ph.D. Scholarship - Excellence Award
 - *2024.10* Industrial Bank Graduate Scholarship
 - *2024.09* Merit Student of Peking University
