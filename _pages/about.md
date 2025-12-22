@@ -32,7 +32,7 @@ My research interests lie in computer architecture, including probabilistic mach
 # 📝 Publications 
 
 ## First-author papers
-- **[Nature]** Anzhi Yan*, Jianlan Yan*, Penghui Shen*, **Yihan Fu***, Enyi Zhang, Jingkai Song, Qinghang Zhang, Ziqi He, Xin Li, Zecheng Pan, Ding Li, Yu Dong, Xiaowei Xu, Feng Qi, Tianqi Shao, Bonan Yan, Yi Yang, Houfang Liu, Tian-Ling Ren. "A flexible all-digital compute-in-memory AI chip for edge-intelligence." Nature, 2025.
+- **[Nature]** Anzhi Yan\*, Jianlan Yan\*, Penghui Shen\*, **Yihan Fu\***, Enyi Zhang, Jingkai Song, Qinghang Zhang, Ziqi He, Xin Li, Zecheng Pan, Ding Li, Yu Dong, Xiaowei Xu, Feng Qi, Tianqi Shao, Bonan Yan, Yi Yang, Houfang Liu, Tian-Ling Ren. "A flexible all-digital compute-in-memory AI chip for edge-intelligence." Nature, 2025.
 
 - **[HPCA'25]** **Yihan Fu**, Anjunyi Fan, Wenshuo Yue, Hongxiao Zhao, Daijing Shi, Qiuping Wu, Jiayi Li, Xiangyu Zhang, Yaoyu Tao, Yuchao Yang, Bonan Yan. ["PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference."](https://ieeexplore.ieee.org/document/10946795) 2025 IEEE International Symposium on High-Performance Computer Architecture, 2025.
 
