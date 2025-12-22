@@ -19,19 +19,21 @@ redirect_from:
 
 # Welcome!
 
-I am a second-year Ph.D. student in [the Institute for Artificial Intelligence, Peking University](https://www.ai.pku.edu.cn), under the supervision of [Prof. Bonan Yan](https://bonany.cc). I received B.S.E in Microelectronics from the School of Electronics Engineering and Computer Science, Peking University, in 2023.
+I am a third-year Ph.D. student in [the Institute for Artificial Intelligence, Peking University](https://www.ai.pku.edu.cn), under the supervision of [Prof. Bonan Yan](https://bonany.cc). I received B.S.E in Microelectronics from the School of Electronics Engineering and Computer Science, Peking University, in 2023.
 
 My research interests lie in computer architecture, including probabilistic machine learning (ProbabilisticML) acceleration, AI-Generated Content (AIGC) acceleration, in-memory computing circuits and architectures, and emerging material- or structure-based memory and associated architectures.
 
 
 # 🔥 News
+- *2025.11*: One paper is accepted by Nature.
 - *2024.11*: One paper is accepted by HPCA'2025.
 - *2023.12*: One paper is accepted by TCAS-I.
 
 # 📝 Publications 
 
 ## First-author papers
-  
+- **[Nature]** Anzhi Yan*, Jianlan Yan*, Penghui Shen*, **Yihan Fu***, Enyi Zhang, Jingkai Song, Qinghang Zhang, Ziqi He, Xin Li, Zecheng Pan, Ding Li, Yu Dong, Xiaowei Xu, Feng Qi, Tianqi Shao, Bonan Yan, Yi Yang, Houfang Liu, Tian-Ling Ren. "A flexible all-digital compute-in-memory AI chip for edge-intelligence." Nature, 2025.
+
 - **[HPCA'25]** **Yihan Fu**, Anjunyi Fan, Wenshuo Yue, Hongxiao Zhao, Daijing Shi, Qiuping Wu, Jiayi Li, Xiangyu Zhang, Yaoyu Tao, Yuchao Yang, Bonan Yan. ["PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference."](https://ieeexplore.ieee.org/document/10946795) 2025 IEEE International Symposium on High-Performance Computer Architecture, 2025.
 
 - **[TCAS-I]** **Yihan Fu**, Daijing Shi, Anjunyi Fan, Wenshuo Yue, Yuchao Yang, Ru Huang, Bonan Yan. [“Probabilistic Compute-in-Memory Design for Efficient Markov Chain Monte Carlo Sampling.”](https://ieeexplore.ieee.org/abstract/document/10347275) IEEE Transactions on Circuits and Systems I: Regular Papers, 2024.
