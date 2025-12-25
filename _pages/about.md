@@ -39,7 +39,9 @@ My research interests lie in computer architecture, including probabilistic mach
 - **[TCAS-I]** **Yihan Fu**, Daijing Shi, Anjunyi Fan, Wenshuo Yue, Yuchao Yang, Ru Huang, Bonan Yan. [“Probabilistic Compute-in-Memory Design for Efficient Markov Chain Monte Carlo Sampling.”](https://ieeexplore.ieee.org/abstract/document/10347275) IEEE Transactions on Circuits and Systems I: Regular Papers, 2024.
 
 ## Co-author papers
-- **[ESSERC’25]** Wenshuo Yue, Zhaokun Jing, Lintao Ye, Tianyao Xiao, Pek Jun Tiw, **Yihan Fu**, Yuxiang Yang, Mo Guang, Kaiwen Long, Daijing Shi, Hongxiao Zhao, Teng Zhang, Bonan Yan, Yuchao Yang. [“A 40nm 48.7 F 2/bit 1T2R Resistive Memory Bitcell Array For Adaptive Vector-Symbolic In-Memory Computing.”](https://ieeexplore.ieee.org/document/11214018) 22025 IEEE European Solid-State Electronics Research Conference, 2025.
+- **[ASP-DAC’26]** Jiaqi Yang, Yanbo Su, **Yihan Fu**, Jianshi Tang, Bonan Yan. [“M3DKV: Monolithic 3D Gain Cell Memory Enabled Efficient KV Cache & Processing.”] 2026 Asia and South Pacific Design Automation Conference, 2026.
+
+- **[ESSERC’25]** Wenshuo Yue, Zhaokun Jing, Lintao Ye, Tianyao Xiao, Pek Jun Tiw, **Yihan Fu**, Yuxiang Yang, Mo Guang, Kaiwen Long, Daijing Shi, Hongxiao Zhao, Teng Zhang, Bonan Yan, Yuchao Yang. [“A 40nm 48.7 F 2/bit 1T2R Resistive Memory Bitcell Array For Adaptive Vector-Symbolic In-Memory Computing.”](https://ieeexplore.ieee.org/document/11214018) 2025 IEEE European Solid-State Electronics Research Conference, 2025.
 
 - **[DATE’25]** Jiayi Li, Hongxiao Zhao, Wenshuo Yue, **Yihan Fu**, Daijing Shi, Anjunyi Fan, Yuchao Yang, Bonan Yan. [“PEARL: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments.”](https://ieeexplore.ieee.org/abstract/document/10992886) 2025 Design, Automation & Test in Europe Conference & Exhibition, 2025.
 
