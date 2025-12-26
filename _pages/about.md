@@ -34,19 +34,19 @@ My research interests lie in computer architecture, including probabilistic mach
 ## First-author papers
 - **[Nature]** Anzhi Yan\*, Jianlan Yan\*, Penghui Shen\*, **Yihan Fu\***, Enyi Zhang, Jingkai Song, Qinghang Zhang, Ziqi He, Xin Li, Zecheng Pan, Ding Li, Yu Dong, Xiaowei Xu, Feng Qi, Tianqi Shao, Bonan Yan, Yi Yang, Houfang Liu, Tian-Ling Ren. "A flexible all-digital compute-in-memory AI chip for edge-intelligence." Nature, 2025.
 
-- **[HPCA'25]** **Yihan Fu**, Anjunyi Fan, Wenshuo Yue, Hongxiao Zhao, Daijing Shi, Qiuping Wu, Jiayi Li, Xiangyu Zhang, Yaoyu Tao, Yuchao Yang, Bonan Yan. ["PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference."](https://ieeexplore.ieee.org/document/10946795) 2025 IEEE International Symposium on High-Performance Computer Architecture, 2025.
+- **[HPCA'25]** **Yihan Fu**, Anjunyi Fan, Wenshuo Yue, Hongxiao Zhao, Daijing Shi, Qiuping Wu, Jiayi Li, Xiangyu Zhang, Yaoyu Tao, Yuchao Yang, Bonan Yan. ["PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference."](https://ieeexplore.ieee.org/document/10946795) IEEE International Symposium on High-Performance Computer Architecture, 2025.
 
 - **[TCAS-I]** **Yihan Fu**, Daijing Shi, Anjunyi Fan, Wenshuo Yue, Yuchao Yang, Ru Huang, Bonan Yan. [“Probabilistic Compute-in-Memory Design for Efficient Markov Chain Monte Carlo Sampling.”](https://ieeexplore.ieee.org/abstract/document/10347275) IEEE Transactions on Circuits and Systems I: Regular Papers, 2024.
 
 ## Co-author papers
-- **[ASP-DAC’26]** Jiaqi Yang, Yanbo Su, **Yihan Fu**, Jianshi Tang, Bonan Yan. “M3DKV: Monolithic 3D Gain Cell Memory Enabled Efficient KV Cache & Processing.” 2026 Asia and South Pacific Design Automation Conference, 2026.
+- **[ASP-DAC’26]** Jiaqi Yang, Yanbo Su, **Yihan Fu**, Jianshi Tang, Bonan Yan. “M3DKV: Monolithic 3D Gain Cell Memory Enabled Efficient KV Cache & Processing.” Asia and South Pacific Design Automation Conference, 2026.
 
-- **[ESSERC’25]** Wenshuo Yue, Zhaokun Jing, Lintao Ye, Tianyao Xiao, Pek Jun Tiw, **Yihan Fu**, Yuxiang Yang, Mo Guang, Kaiwen Long, Daijing Shi, Hongxiao Zhao, Teng Zhang, Bonan Yan, Yuchao Yang. [“A 40nm 48.7 F 2/bit 1T2R Resistive Memory Bitcell Array For Adaptive Vector-Symbolic In-Memory Computing.”](https://ieeexplore.ieee.org/document/11214018) 2025 IEEE European Solid-State Electronics Research Conference, 2025.
+- **[ESSERC’25]** Wenshuo Yue, Zhaokun Jing, Lintao Ye, Tianyao Xiao, Pek Jun Tiw, **Yihan Fu**, Yuxiang Yang, Mo Guang, Kaiwen Long, Daijing Shi, Hongxiao Zhao, Teng Zhang, Bonan Yan, Yuchao Yang. [“A 40nm 48.7 F 2/bit 1T2R Resistive Memory Bitcell Array For Adaptive Vector-Symbolic In-Memory Computing.”](https://ieeexplore.ieee.org/document/11214018) IEEE European Solid-State Electronics Research Conference, 2025.
 
-- **[DATE’25]** Jiayi Li, Hongxiao Zhao, Wenshuo Yue, **Yihan Fu**, Daijing Shi, Anjunyi Fan, Yuchao Yang, Bonan Yan. [“PEARL: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments.”](https://ieeexplore.ieee.org/abstract/document/10992886) 2025 Design, Automation & Test in Europe Conference & Exhibition, 2025.
+- **[DATE’25]** Jiayi Li, Hongxiao Zhao, Wenshuo Yue, **Yihan Fu**, Daijing Shi, Anjunyi Fan, Yuchao Yang, Bonan Yan. [“PEARL: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments.”](https://ieeexplore.ieee.org/abstract/document/10992886) Design, Automation & Test in Europe Conference & Exhibition, 2025.
 
 
-- **[NeurIPS-OWA]** Jiayi Li, Hongxiao Zhao, Wenshuo Yue, **Yihan Fu**, Daijing Shi, Anjunyi Fan, Qinghao Wang, Yaodong Yang, Bonan Yan. [“FPGA-Gym: An FPGA-Accelerated Reinforcement Learning Environment Simulation Framework.”](https://openreview.net/forum?id=LG2BDPKHeH) NeurIPS 2024 Workshop on Open-World Agents, 2024.
+- **[NeurIPS-OWA]** Jiayi Li, Hongxiao Zhao, Wenshuo Yue, **Yihan Fu**, Daijing Shi, Anjunyi Fan, Qinghao Wang, Yaodong Yang, Bonan Yan. [“FPGA-Gym: An FPGA-Accelerated Reinforcement Learning Environment Simulation Framework.”](https://openreview.net/forum?id=LG2BDPKHeH) NeurIPS Workshop on Open-World Agents, 2024.
 
 
 - **[IOP-NCE]** Anjunyi Fan, **Yihan Fu**, Yaoyu Tao, Zhonghua Jin, Haiyue Han, Huiyu Liu, Yaojun Zhang, Bonan Yan, Yuchao Yang, Ru Huang. [“Hadamard product-based in-memory computing design for floating point neural network training.”](https://iopscience.iop.org/article/10.1088/2634-4386/acbab9/meta) Neuromorphic Computing and Engineering, 2023.
