@@ -39,7 +39,9 @@ My research interests lie in computer architecture, including probabilistic mach
 - **[TCAS-I]** **Yihan Fu**, Daijing Shi, Anjunyi Fan, Wenshuo Yue, Yuchao Yang, Ru Huang, Bonan Yan. [“Probabilistic Compute-in-Memory Design for Efficient Markov Chain Monte Carlo Sampling.”](https://ieeexplore.ieee.org/abstract/document/10347275) IEEE Transactions on Circuits and Systems I: Regular Papers, 2024.
 
 ## Co-author papers
-- **[ASP-DAC’26]** Jiaqi Yang, Yanbo Su, **Yihan Fu**, Jianshi Tang, Bonan Yan. “M3DKV: Monolithic 3D Gain Cell Memory Enabled Efficient KV Cache & Processing.” Asia and South Pacific Design Automation Conference, 2026.
+-**[npj Unconventional Computing]** Daijing Shi, **Yihan Fu**, Yihang Zhu, Anjunyi Fan, Yaoyu Tao, Bonan Yan, Yuchao Yang. ["Correcting processing-in-memory multiply-accumulate arithmetic errors with LDPC."](https://www.nature.com/articles/s44335-026-00061-9), 2026.
+
+- **[ASP-DAC’26]** Jiaqi Yang, Yanbo Su, **Yihan Fu**, Jianshi Tang, Bonan Yan. [“M3DKV: Monolithic 3D Gain Cell Memory Enabled Efficient KV Cache & Processing.”](https://ieeexplore.ieee.org/document/11420572) Asia and South Pacific Design Automation Conference, 2026.
 
 - **[ESSERC’25]** Wenshuo Yue, Zhaokun Jing, Lintao Ye, Tianyao Xiao, Pek Jun Tiw, **Yihan Fu**, Yuxiang Yang, Mo Guang, Kaiwen Long, Daijing Shi, Hongxiao Zhao, Teng Zhang, Bonan Yan, Yuchao Yang. [“A 40nm 48.7 F 2/bit 1T2R Resistive Memory Bitcell Array For Adaptive Vector-Symbolic In-Memory Computing.”](https://ieeexplore.ieee.org/document/11214018) IEEE European Solid-State Electronics Research Conference, 2025.
 
