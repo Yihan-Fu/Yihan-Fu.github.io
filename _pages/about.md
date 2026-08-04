@@ -39,6 +39,14 @@ My research interests lie in computer architecture, including probabilistic mach
 - **[TCAS-I]** **Yihan Fu**, Daijing Shi, Anjunyi Fan, Wenshuo Yue, Yuchao Yang, Ru Huang, Bonan Yan. [“Probabilistic Compute-in-Memory Design for Efficient Markov Chain Monte Carlo Sampling.”](https://ieeexplore.ieee.org/abstract/document/10347275) IEEE Transactions on Circuits and Systems I: Regular Papers, 2024.
 
 ## Co-author papers
+- **[MICRO’26]** Daijing Shi, Hongxiao Zhao, **Yihan Fu**, Zhan Chen, Jiayi Li, Yihang Zhu, Anjunyi Fan, Yaoyu Tao, Yuchao Yang, Bonan Yan. [“ MCHA: A Memory-Centric Hierarchical Architecture for Parallel-Sequential Computing.”] IEEE/ACM International Symposium on Microarchitecture, 2026.
+
+- **[MICRO’26]** Jiaqi Yang, Jiayi Li, **Yihan Fu**, Hongxiao Zhao, Zhan Chen, Qiuping Wu, Yuchao Yang, Bonan Yan. [“Beyond Prefill-Decode Disaggregation: Dissecting LLM Inference for Heterogeneous Platforms via Dynamic Operator Scheduling.”] IEEE/ACM International Symposium on Microarchitecture, 2026.
+
+- **[FCCM’26]** Qiuping Wu, Mugeng Liu, Yixuan Zhang, Hongxiao Zhao, **Yihan Fu**, Gang Huang, Yun Ma, Bonan Yan. [“Reconfigurable Computing Challenge: FPGA-Based WebAssembly Stack Co-Processor.”](https://ieeexplore.ieee.org/abstract/document/11552699) IEEE International Symposium on Field-Programmable Custom Computing Machines, 2026.
+
+- **[FCCM’26]** Jiayi Li, Hongxiao Zhao, Wenshuo Yue, **Yihan Fu**, Daijing Shi, Anjunyi Fan, Yuchao Yang, Bonan Yan. [“Reconfigurable Computing Challenge: FPGA-Gym-v2: FPGA-Based RL Environment Acceleration with LLM-Assisted Onboarding.”](https://ieeexplore.ieee.org/abstract/document/11552653) IEEE International Symposium on Field-Programmable Custom Computing Machines, 2026.
+
 - **[NPJ Unconventional Computing]** Daijing Shi, **Yihan Fu**, Yihang Zhu, Anjunyi Fan, Yaoyu Tao, Bonan Yan, Yuchao Yang. ["Correcting processing-in-memory multiply-accumulate arithmetic errors with LDPC."](https://www.nature.com/articles/s44335-026-00061-9) NPJ Unconventional Computing, 2026.
 
 - **[ASP-DAC’26]** Jiaqi Yang, Yanbo Su, **Yihan Fu**, Jianshi Tang, Bonan Yan. [“M3DKV: Monolithic 3D Gain Cell Memory Enabled Efficient KV Cache & Processing.”](https://ieeexplore.ieee.org/document/11420572) Asia and South Pacific Design Automation Conference, 2026.
