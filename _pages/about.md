@@ -63,20 +63,23 @@ My research interests lie in computer architecture, including probabilistic mach
 
 
 # 🎖 Honors and Awards
+- *2026.08* Integrated Circuits and Embedded Systems - Outstanding Reviewer Award
 - *2025.05* 1st International Conference on General Artificial Intelligence - First Prize in the Best Poster Award
 - *2024.12* Peking University Institute for Artificial Intelligence 2024 Ph.D. Scholarship - Excellence Award
 - *2024.10* Industrial Bank Graduate Scholarship
 - *2024.09* Merit Student of Peking University
 
 # 📖 Educations
-- *2023.09 - now*, Ph.D. in integrated circuits science and engineering, Institute for Artificial Intelligence, Peking University
+- *2023.09 - present*, Ph.D. in integrated circuits science and engineering, Institute for Artificial Intelligence, Peking University
 - *2019.06 - 2023.06*, B.S.E in microelectronics, School of Electronics Engineering and Computer Science, Peking University
 - *2015.09 - 2019.06*, Danyang High school of Jiangsu Province
 
 # 💻 Internships
+- *2026.09 - Present*, [Alibaba DAMO Academy](https://damo.alibaba.com/), China.
 - *2022.08 - 2022.11*, [Visionox](https://www.visionox.com/), China.
 
 # 👨🏻‍🎓 Services
+- Official Reviewer of [TCAS-I](https://ieee-cas.org/publication/TCAS-I).
 - Official Reviewer of [DAC'2026](https://dac.com/2026).
 - Official Reviewer of [AICAS'2025](https://ieee-cas.org/event/conference/2025-ieee-7th-international-conference-artificial-intelligence-circuits-and).
 - Official Reviewer of [Integrated Circuits and Embedded Systems](https://jices.buaa.edu.cn/index.jsp).
